@@ -21,3 +21,13 @@ This is for those who already have an adblock extension installed.
 # Clone the repository
 git clone https://github.com/ItsJuiceifer/youtube-adblock-popup-remover.git
 
+# Install Chrome Extension
+1. Once you have the files in place, go to the Chrome browser.
+
+2. Open the Chrome menu (three dots) > More tools > Extensions.
+
+3. Enable the "Developer mode" option in the top right corner.
+
+4. Click on the "Load unpacked" button, and select your extension directory.
+
+5. The extension should now be loaded, and the content script will run on YouTube pages, removing elements with a 5-second delay.
