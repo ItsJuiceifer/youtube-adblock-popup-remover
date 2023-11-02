@@ -3,6 +3,8 @@
 This extension will remove YouTube's crackdown popups that show up because you run adblock.
 This is for those who already have an adblock extension installed.
 
+CHROME EXTENSION
+
 ## Table of Contents
 - [Features](#features)
 - [Installation](#installation)
